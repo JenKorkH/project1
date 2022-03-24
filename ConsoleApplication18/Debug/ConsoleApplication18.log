@@ -1,0 +1,11 @@
+﻿  Cell.cpp
+  Obstacle.cpp
+  Ocean.cpp
+C:\Users\korch\source\repos\ConsoleApplication18\ConsoleApplication18\Ocean.cpp(67,15): error C2248: Cell::Ocean1: невозможно обратиться к protected член, объявленному в классе "Cell"
+C:\Users\korch\source\repos\ConsoleApplication18\ConsoleApplication18\Cell.h(7): message : см. объявление "Cell::Ocean1"
+C:\Users\korch\source\repos\ConsoleApplication18\ConsoleApplication18\Cell.h(4): message : см. объявление "Cell"
+  OceanViewer.cpp
+C:\Users\korch\source\repos\ConsoleApplication18\ConsoleApplication18\OceanViewer.cpp(1,10): fatal error C1083: Не удается открыть файл включение: OceanViewer.h: No such file or directory,
+  Predator.cpp
+  Prey.cpp
+  Создание кода...
